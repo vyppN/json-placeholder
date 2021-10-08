@@ -1,7 +1,5 @@
 {
   "users": {
-    "POST": {
-       "status": "ok"
-    }
+    "status": "ok"
   }
 }
