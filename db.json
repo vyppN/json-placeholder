@@ -1,10 +1,16 @@
 {
    "th":{
       "hello":"สวัสดี",
-      "auto":"ออโต้"
+      "auto":"ออโต้",
+      "home": {
+         "title":"หน้าหลัก"
+      }
    },
    "en":{
       "hello":"Hello",
-      "auto":"Auto"
+      "auto":"Auto",
+      "home": {
+         "title":"หน้าหลัก"
+      }
    }
 }
