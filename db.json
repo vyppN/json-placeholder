@@ -1,8 +1,8 @@
 {
-  "users": {
-    "status": "ok"
+  "th": {
+    "hello": "สวัสดี"
   },
-  "users2": {
-    "status": "ok"
+  "en": {
+    "hello": "Hello"
   }
 }
