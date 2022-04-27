@@ -1,12 +1,8 @@
 {
-  "version": "1.0.1",
-  "langs": ["en","th"],
-  "locale": {
-    "th": {
-      "hello": "สวัสดี"
-    },
-    "en": {
-      "hello": "Hello"
-    }
-  }
+   "th":{
+      "hello":"สวัสดี"
+   },
+   "en":{
+      "hello":"Hello"
+   }
 }
