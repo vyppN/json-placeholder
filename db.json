@@ -1,4 +1,6 @@
 {
+  "version": "1.0.1",
+  "langs": ["en","th"],
   "locale": {
     "th": {
       "hello": "สวัสดี"
