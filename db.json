@@ -1,8 +1,10 @@
 {
-  "th": {
-    "hello": "สวัสดี"
-  },
-  "en": {
-    "hello": "Hello"
+  "locale": {
+    "th": {
+      "hello": "สวัสดี"
+    },
+    "en": {
+      "hello": "Hello"
+    }
   }
 }
