@@ -10,7 +10,7 @@
       "hello":"Hello",
       "auto":"Auto",
       "home": {
-         "title":"หน้าหลัก"
+         "title":"Home"
       }
    }
 }
