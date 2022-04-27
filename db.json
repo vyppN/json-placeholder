@@ -1,17 +1,17 @@
 {
    "version": {
-      "version":"1.0.1"
+      "version":"1.0.3"
    },
    "locale":{
       "th":{
-         "hello":"สวัสดีจ้า",
+         "hello":"สวัสดีคร้าบท่าน",
          "auto":"ออโต้",
          "home":{
             "title":"หน้าหลัก"
          }
       },
       "en":{
-         "hello":"Hello world",
+         "hello":"Hello Bro",
          "auto":"Auto",
          "home":{
             "title":"Home"
