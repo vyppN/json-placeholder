@@ -1,16 +1,19 @@
 {
-   "th":{
-      "hello":"สวัสดี",
-      "auto":"ออโต้",
-      "home": {
-         "title":"หน้าหลัก"
-      }
-   },
-   "en":{
-      "hello":"Hello",
-      "auto":"Auto",
-      "home": {
-         "title":"Home"
+   "version": "1.0.1",
+   "locale":{
+      "th":{
+         "hello":"สวัสดี",
+         "auto":"ออโต้",
+         "home":{
+            "title":"หน้าหลัก"
+         }
+      },
+      "en":{
+         "hello":"Hello",
+         "auto":"Auto",
+         "home":{
+            "title":"Home"
+         }
       }
    }
 }
