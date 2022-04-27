@@ -1,8 +1,10 @@
 {
    "th":{
-      "hello":"สวัสดี"
+      "hello":"สวัสดี",
+      "auto":"ออโต้"
    },
    "en":{
-      "hello":"Hello"
+      "hello":"Hello",
+      "auto":"Auto"
    }
 }
