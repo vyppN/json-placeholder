@@ -1,20 +1,20 @@
 {
    "version": {
-      "version":"1.0.2"
+      "version":"1.0.3"
    },
    "locale":{
       "th":{
-         "hello":"สวัสดีคร้าบท่านสมาชิค",
+         "hello":"สวัสดีคร้าบโผมมมมม",
          "auto":"ออโต้",
          "home":{
-            "title":"หน้าหลัก"
+            "title":"หน้าหลักนะ"
          }
       },
       "en":{
-         "hello":"Hello Member",
+         "hello":"Hello Sirrrrr",
          "auto":"Auto",
          "home":{
-            "title":"Home"
+            "title":"Home Na"
          }
       }
    }
